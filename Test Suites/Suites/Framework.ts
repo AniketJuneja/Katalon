@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Framework</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>e732ee1a-8301-40dd-adcf-8febbc006293</testSuiteGuid>
+   <testCaseLink>
+      <guid>b12a853b-8cc4-4dee-968f-6ab275fab124</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Task_02/TC_01_attribute</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>926f4ff1-7735-4296-a446-372c475f51c3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Files/Selector</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>926f4ff1-7735-4296-a446-372c475f51c3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>8bae452b-7d80-4d2f-8181-362ea9f7a29e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>926f4ff1-7735-4296-a446-372c475f51c3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>cb43d45a-2f37-4bf9-8fb0-b9b368912908</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b4e529b9-4ab3-4392-b54b-4655683ce591</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Task_02/TC_02_css</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8ed8a570-770e-4646-ba3a-de0cc3942192</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Files/hrmdata</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8ed8a570-770e-4646-ba3a-de0cc3942192</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>c5fc221b-fc27-4618-9e11-691bf4f404a2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8ed8a570-770e-4646-ba3a-de0cc3942192</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>ae7ac6e7-345a-4a49-b2d6-bdf24f7deaac</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>76c5e812-fc75-4ce0-89bb-6507a7eb867e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DesktopRec</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>54d48dda-4464-47b9-99ff-1148e2d13820</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/mobile</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ab313323-944f-4bd2-83ba-4c712755ee69</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2fd40a81-cb03-4e1f-8ced-be68bb9919ce</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c3ce6644-429a-4f1d-8b4b-1d47a6bcef7c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

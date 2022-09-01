@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>mobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d1edb05-c7b5-4ec5-9418-7ad94da699bc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab313323-944f-4bd2-83ba-4c712755ee69</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2fd40a81-cb03-4e1f-8ced-be68bb9919ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3ce6644-429a-4f1d-8b4b-1d47a6bcef7c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'6377720770'</defaultValue>
+      <description></description>
+      <id>ab313323-944f-4bd2-83ba-4c712755ee69</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'Aniket'</defaultValue>
+      <description></description>
+      <id>2fd40a81-cb03-4e1f-8ced-be68bb9919ce</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'200'</defaultValue>
+      <description></description>
+      <id>c3ce6644-429a-4f1d-8b4b-1d47a6bcef7c</id>
+      <masked>false</masked>
+      <name>amount</name>
+   </variable>
+</TestCaseEntity>

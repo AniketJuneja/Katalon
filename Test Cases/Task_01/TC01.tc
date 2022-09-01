@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a15a585-929c-4510-b1a9-0b42dc72297f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08e7ef9d-8fdf-418b-bc31-bcec4935418c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>91c31f41-4df4-4048-aa62-cd7c24b9a2d2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Admin\r\n'</defaultValue>
+      <description></description>
+      <id>08e7ef9d-8fdf-418b-bc31-bcec4935418c</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123\r\n'</defaultValue>
+      <description></description>
+      <id>91c31f41-4df4-4048-aa62-cd7c24b9a2d2</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

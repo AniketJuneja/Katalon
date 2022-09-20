@@ -3,6 +3,16 @@
    <description></description>
    <name>Desk rec</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>2</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment></comment>
    <testCaseGuid>5dbced78-5bd9-4007-ac1f-67ee575f9559</testCaseGuid>
 </TestCaseEntity>
